@@ -1,2 +1,5 @@
 from random import randint
-print(randint(0, 100))
+x = (randint(0, 100))
+if (x <= 30)
+print ("nice")
+else print ("not nice")
